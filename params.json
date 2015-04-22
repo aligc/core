@@ -1,0 +1,1 @@
+{"name":"random","tagline":"","body":"// Math.random() devuelve número aleatorio entre 0 y 1.\r\nvar numero = Math.random();\r\n\r\nvar str =' MAYOR que 0,5';\r\n\r\nif (numero <= 0.5){\r\n  str = ' MENOR que 0,5';\r\n}\r\n\r\nconsole.log('\\n' + numero + str + '\\n');\r\n","google":"","note":"Don't delete this file! It's used internally to help with page regeneration."}
